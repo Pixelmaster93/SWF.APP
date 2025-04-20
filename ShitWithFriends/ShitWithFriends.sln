@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShitWithFriends", "ShitWithFriends.csproj", "{0BF1F238-1ADD-4A2A-9CD8-3E10B1A3D292}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShitWithFriends.navigation", "..\ShitWithFriends.navigation\ShitWithFriends.navigation.csproj", "{59107019-728A-415A-AFF5-8179E3319DB7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BF1F238-1ADD-4A2A-9CD8-3E10B1A3D292}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BF1F238-1ADD-4A2A-9CD8-3E10B1A3D292}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BF1F238-1ADD-4A2A-9CD8-3E10B1A3D292}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{0BF1F238-1ADD-4A2A-9CD8-3E10B1A3D292}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BF1F238-1ADD-4A2A-9CD8-3E10B1A3D292}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BF1F238-1ADD-4A2A-9CD8-3E10B1A3D292}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{59107019-728A-415A-AFF5-8179E3319DB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59107019-728A-415A-AFF5-8179E3319DB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59107019-728A-415A-AFF5-8179E3319DB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59107019-728A-415A-AFF5-8179E3319DB7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5E0964B-D9DC-44BC-AE4D-E77DE3B7D749}
+	EndGlobalSection
+EndGlobal
